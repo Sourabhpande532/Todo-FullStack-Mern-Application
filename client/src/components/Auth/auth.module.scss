@@ -1,0 +1,48 @@
+.register,
+.login {
+	flex: 1;
+  border-radius: 50px; 
+}
+.register{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	border-radius: 50px;
+	width: 100vh;
+	color: green;
+}
+.log{
+	font-size: 20px;
+	color: rgb(95, 194, 19);
+}
+
+.title {
+	font-size: 3rem;
+}
+.authForm {
+	margin-top: 2rem;
+	width: 100%;
+	label {
+		width: 100%;
+		font-size: 2rem;
+    
+	}
+	input {
+		font-size: 2rem;
+		width: 100%;
+		margin-bottom: 2rem;
+		margin-top: 0.5rem;
+		padding: 1rem;
+		border-radius: 6px;
+		border: none;
+		background-color: rgb(62, 7, 7);
+        color: wheat;
+	}
+	button[type='submit'] {
+		font-size: 2rem;
+		padding: 0.5rem 1rem;
+		cursor: pointer;
+    border-radius: 8px;
+	}
+}
