@@ -18,7 +18,7 @@
 ## 🛑 YouTube Link 🛑
 ### 📌 **Link: (don't forget to check description also)** <a href="https://youtu.be/Kz_q610hY7k">**Visit Now** 🚀</a>
 
-## 🛑 Linkden Profile 🛑
+## 🛑 Linkeden Profile 🛑
 ### 📌 **Link: (don't forget to check post also)** <a href="https://www.linkedin.com/in/sourabh-pande-412170224/">**Visit Now** 🚀</a>
 
 
