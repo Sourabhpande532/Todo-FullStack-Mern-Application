@@ -18,6 +18,11 @@
 ## 🛑 YouTube Link 🛑
 ### 📌 **Link: (don't forget to check description also)** <a href="https://youtu.be/Kz_q610hY7k">**Visit Now** 🚀</a>
 
+## 🛑 Linkden Profile 🛑
+### 📌 **Link: (don't forget to check post also)** <a href="https://www.linkedin.com/in/sourabh-pande-412170224/">**Visit Now** 🚀</a>
+
+
+
 ## ![image](./Images/Screenshot%202023-01-30%20125124.png)
 
 ## ![image](./Images/excalidraw.png)
@@ -62,6 +67,13 @@
  it's Approximately more than **20 days** to understand the concept
 
 ---
+
+## 📬 Connect With Me
+
+
+[ <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sourabh-pande-412170224/) 
+[ <img src= "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://saurabh532.hashnode.dev/)
+
 
 ## **Next Vision**
 Think about hoisting on Railway and vercel. 
